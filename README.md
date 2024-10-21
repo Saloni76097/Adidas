@@ -2,7 +2,7 @@
 Project Overview:
 This project analyzes Adidas US sales data to optimize sales strategies across various product categories and regions. The goal is to uncover insights that can drive revenue growth, improve profitability, and enhance inventory and pricing decisions.
 
-#Key Objectives:
+Key Objectives:
 
 Identify top-performing regions and underperforming areas to optimize regional sales strategies.
 Analyze product categories to determine high-demand items and optimize product assortments.
@@ -11,8 +11,12 @@ Examine pricing strategies and their impact on sales and profit margins.
 Tools & Technologies:
 
 SQL: Used for data extraction, cleaning, and analysis of sales, revenue, and profit margins.
+
 Excel: Utilized for additional data manipulation.
+
 Google Workspace: Managed and collaborated on data and reports efficiently.
+
+
 
 Key Insights:
 
